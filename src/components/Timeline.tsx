@@ -1,7 +1,7 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBriefcase } from '@fortawesome/free-solid-svg-icons';
+import { faBriefcase, faGraduationCap } from '@fortawesome/free-solid-svg-icons';
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 import '../assets/styles/Timeline.scss'
@@ -16,50 +16,62 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="08/2024 - Present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Customer Operations & Support Specialist</h3>
+            <h4 className="vertical-timeline-element-subtitle">Euronet Polska Sp. z o.o. • Warsaw, Poland</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Troubleshoot user and system issues, manage support cases in Zendesk, document incidents, and coordinate resolutions with internal teams.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="05/2024 - 08/2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Technical Support Specialist</h3>
+            <h4 className="vertical-timeline-element-subtitle">FedEx • Poland</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Provided technical troubleshooting, managed escalations, and documented resolutions for customer and internal support cases.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2021"
+            date="07/2023 - 07/2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Technical Support Specialist</h3>
+            <h4 className="vertical-timeline-element-subtitle">Concentrix CVG International Sp. z o.o. • Poland</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Supported Windows environments, Microsoft applications, and user issues through ticket-based troubleshooting and documented technical solutions.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2020"
+            date="08/2020 - 10/2021"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">Systems Support Officer</h3>
+            <h4 className="vertical-timeline-element-subtitle">Ethio Canadian Business Group • Addis Ababa</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              Supported Windows systems, Active Directory, user accounts, and basic networking while managing IT incidents through HaloITSM.
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="2020 - 2021"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faGraduationCap} />}
+          >
+            <h3 className="vertical-timeline-element-title">Education</h3>
+            <h4 className="vertical-timeline-element-subtitle">MSc Management & Organization • Silesian University of Technology</h4>
+            <p>
+              BSc Civil Engineering • Addis Ababa University
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
