@@ -20,22 +20,12 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Customer Operations & Support Specialist</h3>
-            <h4 className="vertical-timeline-element-subtitle">Euronet Polska Sp. z o.o. • Warsaw, Poland</h4>
+            <h3 className="vertical-timeline-element-title">Fraud Operations & Customer Support Analyst</h3>
+            <h4 className="vertical-timeline-element-subtitle">Euronet Polska Sp. z o.o. (Ria Money Transfer Project) • Poland</h4>
             <p>
-              Troubleshoot user and system issues, manage support cases in Zendesk, document incidents, and coordinate resolutions with internal teams.
-            </p>
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="05/2024 - 08/2024"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
-            icon={<FontAwesomeIcon icon={faBriefcase} />}
-          >
-            <h3 className="vertical-timeline-element-title">Technical Support Specialist</h3>
-            <h4 className="vertical-timeline-element-subtitle">FedEx • Poland</h4>
-            <p>
-              Provided technical troubleshooting, managed escalations, and documented resolutions for customer and internal support cases.
+              Monitored digital account activity and online transactions to detect fraud and policy violations,
+              verified suspicious activity through phone and email authentication, documented investigations,
+              and secured compromised accounts to minimize fraud losses.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -44,34 +34,36 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technical Support Specialist</h3>
+            <h3 className="vertical-timeline-element-title">Fraud Operations & Customer Support Analyst</h3>
             <h4 className="vertical-timeline-element-subtitle">Concentrix CVG International Sp. z o.o. • Poland</h4>
             <p>
-              Supported Windows environments, Microsoft applications, and user issues through ticket-based troubleshooting and documented technical solutions.
+              Investigated suspicious transactions and mitigated fraud risks, verified customer transactions,
+              and collaborated with internal teams to resolve fraud cases and confirm transaction legitimacy.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="08/2020 - 10/2021"
+            date="08/2020 - 09/2021"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Systems Support Officer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Ethio Canadian Business Group • Addis Ababa</h4>
+            <h3 className="vertical-timeline-element-title">Risk & Fraud Operations Analyst</h3>
+            <h4 className="vertical-timeline-element-subtitle">Commercial Bank of Ethiopia (CBE) • Ethiopia</h4>
             <p>
-              Supported Windows systems, Active Directory, user accounts, and basic networking while managing IT incidents through HaloITSM.
+              Investigated account and authentication risks, identified suspicious activity and escalated exceptions,
+              and verified transactions to support fraud risk resolution.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2023"
+            date="10/2021 - 07/2023"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faGraduationCap} />}
           >
             <h3 className="vertical-timeline-element-title">Education</h3>
             <h4 className="vertical-timeline-element-subtitle">MSc Management & Organization • Silesian University of Technology</h4>
             <p>
-              BSc Civil Engineering • Addis Ababa University
+              Advanced education in management and organization aligned with professional experience in risk and fraud operations.
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

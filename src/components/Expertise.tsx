@@ -6,30 +6,30 @@ import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
-    "Azure Virtual Machines",
-    "Microsoft Entra ID",
-    "Azure Networking",
-    "Windows Server",
-    "Active Directory",
-    "PowerShell (Basic)"
+    "Fraud Investigation",
+    "Transaction Monitoring",
+    "Suspicious Activity Investigation",
+    "Fraud Detection",
+    "Risk Assessment",
+    "Exception Resolution"
 ];
 
 const labelsSecond = [
-    "Azure Administration",
-    "Technical Support",
-    "Incident Management",
-    "Zendesk",
-    "HaloITSM",
-    "Microsoft 365"
+    "Customer Verification",
+    "Customer Authentication",
+    "Account Security",
+    "Transaction Verification",
+    "Loss Prevention",
+    "Stakeholder Collaboration"
 ];
 
 const labelsThird = [
-    "AZ-900",
-    "CompTIA A+",
-    "Cloud Infrastructure",
-    "Troubleshooting",
-    "Ticketing Systems",
-    "IT Operations"
+    "Microsoft Office",
+    "Microsoft Excel",
+    "CRM Systems",
+    "Case Management Systems",
+    "Fraud Monitoring Tools",
+    "Payment Processing Platforms"
 ];
 
 function Expertise() {
@@ -40,8 +40,8 @@ function Expertise() {
             <div className="skills-grid">
                 <div className="skill">
                     <FontAwesomeIcon icon={faCloud} size="3x"/>
-                    <h3>Azure & Cloud Infrastructure</h3>
-                    <p>Focused on Azure administration, cloud support, and infrastructure basics including virtual machines, virtual networks, and identity management.</p>
+                    <h3>Fraud Operations & Risk Management</h3>
+                    <p>Focused on monitoring transactions, investigating suspicious activity, and supporting fraud prevention efforts across digital and customer-facing operations.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Skills:</span>
                         {labelsFirst.map((label, index) => (
@@ -52,8 +52,8 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faHeadset} size="3x"/>
-                    <h3>Support & Operations</h3>
-                    <p>Experience troubleshooting user and system issues, documenting incidents, managing escalations, and coordinating resolutions with internal teams.</p>
+                    <h3>Customer Protection & Investigation</h3>
+                    <p>Experience verifying customer activity, securing accounts, documenting cases, and resolving fraud-related exceptions with internal teams and stakeholders.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tools:</span>
                         {labelsSecond.map((label, index) => (
@@ -64,8 +64,8 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faServer} size="3x"/>
-                    <h3>IT Systems & Certifications</h3>
-                    <p>Combines practical support experience with AZ-900 and CompTIA A+ knowledge to contribute to modern cloud and Windows-based environments.</p>
+                    <h3>Tools & Documentation</h3>
+                    <p>Combines case documentation, transaction verification, and multi-system navigation to support effective fraud operations and customer protection.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Highlights:</span>
                         {labelsThird.map((label, index) => (

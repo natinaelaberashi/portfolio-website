@@ -11,23 +11,24 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src="/profile.jpg" alt="Natinael Shibeshi" />
+          <img src="/profile.jpg" alt="Natinael Abera Shibeshi" />
         </div>
         <div className="content">
           <div className="social_icons">
             <a href="mailto:shibeshinatinaelabera@gmail.com" target="_blank" rel="noreferrer"><EmailIcon/></a>
             <a href="https://www.linkedin.com/in/natinael-abera" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
-          <h1>Natinael Shibeshi</h1>
-          <p>Azure Cloud Engineer | Cloud Support | Azure Infrastructure</p>
+          <h1>Natinael Abera Shibeshi</h1>
+          <p>Fraud Operations Analyst | Fraud Investigation | Transaction Monitoring | Risk Management</p>
           <p>
-            IT professional with experience in technical support, systems support, and IT operations.
-            AZ-900 and CompTIA A+ certified with knowledge of Azure Virtual Machines, Microsoft Entra ID,
-            Azure networking, Windows Server, and cloud infrastructure.
+            Fraud Operations professional with experience in transaction monitoring, fraud investigation,
+            customer verification, account security, fraud prevention, and risk assessment. Skilled at
+            identifying suspicious activity, investigating fraud alerts, documenting findings, and
+            collaborating with stakeholders to minimize financial risk while maintaining regulatory compliance.
           </p>
 
           <div className="contact-details">
-            <p><LocationOnIcon /> Warsaw, Poland</p>
+            <p><LocationOnIcon /> Poland</p>
             <p><EmailIcon /> shibeshinatinaelabera@gmail.com</p>
             <p><PhoneAndroidIcon /> +48 539 783 189</p>
           </div>

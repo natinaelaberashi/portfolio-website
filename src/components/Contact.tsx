@@ -54,7 +54,7 @@ function Contact() {
       <div className="items-container">
         <div className="contact_wrapper">
           <h1>Contact Me</h1>
-          <p>Open to Azure Cloud Engineer, Cloud Support Engineer, and Azure Administrator opportunities. Reach out for roles, collaborations, or cloud support discussions.</p>
+          <p>Open to fraud operations, fraud investigation, transaction monitoring, and risk management opportunities. Reach out for roles, collaborations, or discussions about fraud prevention and account security.</p>
           <Box
             ref={form}
             component="form"
