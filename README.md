@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This repository contains the portfolio website for Natinael Shibeshi, an Azure Cloud Engineer and IT support professional.
+This repository contains the portfolio website for Natinael Abera Shibeshi, a Fraud Operations Analyst with experience in fraud investigation, transaction monitoring, customer verification, and risk management.
 
 ## Live Demo
 
@@ -8,7 +8,7 @@ https://natinaelaberashi.github.io/portfolio-website
 
 ## About
 
-The site showcases Natinael's experience in Azure cloud support, Azure infrastructure, Azure Virtual Machines, Microsoft Entra ID, technical support, and incident management.
+The site highlights Natinael's experience in fraud operations, suspicious activity investigation, transaction verification, account security, fraud prevention, and stakeholder collaboration.
 
 ## Contact
 

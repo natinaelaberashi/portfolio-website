@@ -4,19 +4,19 @@ import '../assets/styles/Project.scss';
 function Project() {
     return(
     <div className="projects-container" id="projects">
-        <h1>Azure Projects & Experience</h1>
+        <h1>Fraud Operations Experience</h1>
         <div className="projects-grid">
             <div className="project">
-                <h2>Azure Administration Labs</h2>
-                <p>Deployed and configured Azure Virtual Machines, Virtual Networks, and Microsoft Entra ID users and groups through hands-on Azure administration labs.</p>
+                <h2>Fraud Monitoring & Investigation</h2>
+                <p>Monitored digital account activity and online transactions to detect suspicious behavior, investigate alerts, and support fraud prevention initiatives.</p>
             </div>
             <div className="project">
-                <h2>Cloud Support & Troubleshooting</h2>
-                <p>Resolved technical issues across Windows environments and Microsoft applications, documented solutions, and managed escalations in ticket-based support operations.</p>
+                <h2>Customer Verification & Account Security</h2>
+                <p>Verified suspicious activity through phone and email authentication, documented investigations, and secured compromised accounts to minimize fraud losses.</p>
             </div>
             <div className="project">
-                <h2>Systems & Identity Support</h2>
-                <p>Supported Windows systems, Active Directory, user accounts, and basic networking while managing incidents through HaloITSM.</p>
+                <h2>Risk Assessment & Exception Handling</h2>
+                <p>Investigated account and authentication risks, escalated exceptions, and supported transaction verification efforts to strengthen fraud risk resolution.</p>
             </div>
         </div>
     </div>
