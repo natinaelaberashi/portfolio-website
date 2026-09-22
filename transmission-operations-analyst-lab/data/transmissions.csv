@@ -1,0 +1,16 @@
+message_id,channel,status,priority,attempts,processing_seconds,error_type,team,sla_met
+TX3001,API,Success,High,1,12,None,Operations,Yes
+TX3002,SFTP,Failed,High,3,81,Timeout,Transmission,No
+TX3003,API,Success,Medium,1,9,None,Operations,Yes
+TX3004,Queue,Retry,Medium,2,44,Dependency,Platform,Yes
+TX3005,SFTP,Failed,High,3,96,Authentication,Transmission,No
+TX3006,API,Success,Low,1,14,None,Operations,Yes
+TX3007,Queue,Success,Medium,1,21,None,Platform,Yes
+TX3008,SFTP,Retry,High,2,53,Timeout,Transmission,Yes
+TX3009,API,Failed,Medium,2,61,Validation,Operations,Yes
+TX3010,Queue,Success,Low,1,18,None,Platform,Yes
+TX3011,SFTP,Success,High,1,25,None,Transmission,Yes
+TX3012,API,Failed,High,3,72,Validation,Operations,No
+TX3013,Queue,Retry,Medium,2,39,Dependency,Platform,Yes
+TX3014,SFTP,Failed,High,3,88,Timeout,Transmission,No
+TX3015,API,Success,Medium,1,11,None,Operations,Yes
