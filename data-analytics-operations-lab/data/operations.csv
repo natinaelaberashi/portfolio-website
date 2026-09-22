@@ -1,0 +1,13 @@
+case_id,category,channel,status,priority,response_hours,resolution_hours,sla_met,customer_impact,root_cause
+DA4001,Payment,Email,Resolved,High,1.2,5.4,Yes,Medium,Validation
+DA4002,Account,Chat,Resolved,Medium,0.8,2.1,Yes,Low,User configuration
+DA4003,Technical,Web,Resolved,High,2.3,7.8,No,High,Application defect
+DA4004,Access,Email,Resolved,Medium,1.5,3.4,Yes,Medium,Access configuration
+DA4005,Payment,Chat,Open,High,2.1,0,Yes,High,Under investigation
+DA4006,Technical,Web,Resolved,Critical,0.7,9.2,No,High,Dependency failure
+DA4007,Account,Email,Resolved,Low,2.8,3.0,Yes,Low,User configuration
+DA4008,Access,Chat,Resolved,Medium,1.1,2.7,Yes,Medium,Access configuration
+DA4009,Payment,Web,Resolved,High,1.4,4.8,Yes,Medium,Validation
+DA4010,Technical,Email,Resolved,High,1.9,6.5,No,High,Application defect
+DA4011,Account,Chat,Resolved,Low,1.0,2.5,Yes,Low,User configuration
+DA4012,Payment,Email,Resolved,Medium,1.6,3.9,Yes,Medium,External dependency
