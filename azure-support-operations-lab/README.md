@@ -1,27 +1,50 @@
 # Azure Support Operations Lab
 
-A portfolio project simulating day-to-day Azure support operations using a synthetic incident dataset.
+A portfolio learning lab simulating **Azure-oriented support operations** using a synthetic incident dataset.
 
-## What it demonstrates
+## Scenario
 
-- Azure-focused incident triage and service-impact analysis
+A support analyst receives service alerts and incidents and must assess impact, prioritize work, investigate evidence, monitor SLA performance, and document the resolution.
+
+## What It Demonstrates
+
+- Azure-focused incident triage
+- Service-impact assessment
 - Monitoring and alert investigation concepts
 - SLA tracking and operational reporting
-- Root-cause analysis and corrective actions
+- Root-cause analysis
 - KQL-style investigation examples
-- Support runbook documentation
+- Practical support runbook documentation
 
-## Scope
+## Investigation Flow
 
-This is a learning and portfolio lab. It does **not** represent access to a real Azure environment or employer systems.
+```text
+Alert / Incident
+      ↓
+Impact Assessment
+      ↓
+Triage & Priority
+      ↓
+Evidence / Logs
+      ↓
+KQL Investigation
+      ↓
+Stabilize / Resolve
+      ↓
+Validate & Document
+```
 
-## Project structure
+## Project Structure
 
 - `data/incidents.csv` — synthetic support incidents
 - `kql/investigations.kql` — example KQL investigation queries
-- `runbooks/incident-triage.md` — practical incident-triage runbook
+- `runbooks/incident-triage.md` — incident-triage runbook
 - `insights.md` — findings from the synthetic dataset
 
 ## Skills
 
-Azure Operations • Incident Management • Monitoring • SLA Analysis • Root-Cause Analysis • KQL Fundamentals • Technical Documentation
+Azure Operations Concepts • Incident Management • Monitoring • SLA Analysis • Root-Cause Analysis • KQL Fundamentals • Technical Documentation
+
+## Scope & Integrity
+
+This is a **learning and portfolio lab**. It does not represent access to a real Azure environment, employer infrastructure, or production systems.
