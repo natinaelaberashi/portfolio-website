@@ -1,0 +1,11 @@
+incident_id,service,severity,status,channel,response_minutes,resolution_hours,sla_met,root_cause,preventive_action
+INC2001,Order API,P1,Resolved,Monitoring,8,2.5,Yes,Dependency timeout,Add dependency alert
+INC2002,Customer Portal,P2,Resolved,Service Desk,19,4.2,Yes,Application defect,Add regression test
+INC2003,Payment Gateway,P1,Resolved,Monitoring,6,5.8,No,External provider issue,Improve provider health checks
+INC2004,Reporting Service,P3,Resolved,Service Desk,34,7.1,Yes,Data refresh delay,Add refresh monitoring
+INC2005,Order API,P2,Open,Service Desk,27,0,Yes,Under investigation,Pending RCA
+INC2006,Customer Portal,P2,Resolved,Monitoring,15,3.7,Yes,Configuration error,Change validation checklist
+INC2007,Payment Gateway,P1,Resolved,Monitoring,9,4.9,Yes,Network instability,Improve alert correlation
+INC2008,Reporting Service,P3,Resolved,Service Desk,41,8.3,Yes,Query performance,Review slow queries
+INC2009,Order API,P2,Resolved,Monitoring,21,3.1,Yes,Dependency timeout,Add dependency alert
+INC2010,Customer Portal,P2,Resolved,Service Desk,18,2.9,Yes,Application defect,Add regression test
