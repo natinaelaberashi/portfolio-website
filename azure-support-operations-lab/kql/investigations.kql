@@ -1,0 +1,23 @@
+// Example KQL-style investigations for a support operations lab.
+// Adapt field/table names to the actual Azure Monitor / Log Analytics schema.
+
+// 1. Find recent high-severity events
+SupportIncidents
+| where Priority in ("High", "Critical")
+| order by ResponseMinutes asc
+
+// 2. Group incidents by service
+SupportIncidents
+| summarize IncidentCount=count(), AvgResolutionHours=avg(ResolutionHours)
+  by Service
+| order by IncidentCount desc
+
+// 3. Identify SLA misses
+SupportIncidents
+| where SLA_Met == "No"
+| project IncidentId, Service, Priority, ImpactMinutes, ResolutionHours, RootCause
+
+// 4. Find recurring root causes
+SupportIncidents
+| summarize Occurrences=count() by RootCause
+| order by Occurrences desc
