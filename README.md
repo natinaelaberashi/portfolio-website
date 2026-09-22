@@ -2,22 +2,27 @@
 
 **Operations & Support Specialist | Data Analysis | Incident & Process Support**
 
-I build practical portfolio projects around operational support, incident analysis, transaction data, KPI/SLA monitoring, and process improvement.
+I build practical portfolio projects around operational support, incident investigation, transaction data, KPI/SLA monitoring, customer support analytics, and process improvement.
 
 ## Featured projects
 
 ### 1. IT Service Desk Operations Dashboard
-Interactive dashboard for incident volume, priorities, SLA compliance, resolution time, and team-level support analysis.
+Interactive dashboard for incident volume, priorities, SLA compliance, resolution time, team analysis, and filtering.
 
 - Repository: https://github.com/natinaelaberashi/cloud-desk-it-support
 - Live demo: https://natinaelaberashi.github.io/cloud-desk-it-support/
 
 ### 2. Transaction Processing & Operations Analytics
-SQL-based analysis of transaction volumes, approval/decline patterns, operational KPIs, and synthetic transaction data.
+SQL-based analysis of transaction volumes, approval/decline patterns, failure rates, operational KPIs, and synthetic transaction data.
 
 - Repository: https://github.com/natinaelaberashi/it-support-ticket-system
 
-### 3. Weather App
+### 3. Customer Support Analytics
+Interactive synthetic customer-support analysis covering case volume, SLA compliance, response time, resolution time, categories, priorities, and operational insights.
+
+- Project folder: https://github.com/natinaelaberashi/portfolio-website/tree/main/customer-support-analytics
+
+### 4. Weather App
 Web application demonstrating API-based data retrieval and application development.
 
 - Repository: https://github.com/natinaelaberashi/Weather-app
