@@ -1,0 +1,13 @@
+incident_id,service,priority,status,category,impact_minutes,response_minutes,resolution_hours,root_cause,sla_met
+AZ1001,Web App,High,Resolved,Application,42,18,3.2,Application configuration,Yes
+AZ1002,Storage,Medium,Resolved,Platform,15,12,1.4,Capacity threshold,Yes
+AZ1003,Virtual Machine,Critical,Resolved,Infrastructure,95,7,4.8,Service dependency,Yes
+AZ1004,SQL Database,High,Resolved,Database,38,14,2.7,Connection saturation,Yes
+AZ1005,Web App,Medium,Open,Application,0,31,0,Unknown,Yes
+AZ1006,API Management,High,Resolved,Network,51,16,5.1,DNS configuration,No
+AZ1007,Virtual Machine,Medium,Resolved,Infrastructure,22,20,2.1,Resource exhaustion,Yes
+AZ1008,SQL Database,Critical,Resolved,Database,74,9,6.3,Query performance,No
+AZ1009,Storage,Low,Resolved,Platform,8,25,0.9,Capacity threshold,Yes
+AZ1010,Web App,High,Pending,Application,0,27,0,Third-party dependency,Yes
+AZ1011,API Management,Medium,Resolved,Network,19,17,1.8,DNS configuration,Yes
+AZ1012,Virtual Machine,High,Resolved,Infrastructure,46,11,3.9,Resource exhaustion,Yes
