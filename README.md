@@ -1,27 +1,30 @@
-# Portfolio Website
+# Natinael Abera Shibeshi — Portfolio
 
-This repository contains the portfolio website for Natinael Abera Shibeshi, a Fraud Operations Analyst with experience in fraud investigation, transaction monitoring, customer verification, and risk management.
+Operations & Support Specialist focused on data analysis, incident support, transaction operations and process improvement.
 
-## Live Demo
+## Featured projects
 
-https://natinaelaberashi.github.io/portfolio-website
+- [IT Service Desk Operations Dashboard](https://github.com/natinaelaberashi/cloud-desk-it-support) — interactive incident, SLA and support analytics dashboard.
+- [Transaction Processing & Operations Analytics](https://github.com/natinaelaberashi/it-support-ticket-system) — SQL analysis, synthetic transaction data and operational insights.
+- [Weather App](https://github.com/natinaelaberashi/Weather-app) — TypeScript web application.
 
-## About
+## Skills
 
-The site highlights Natinael's experience in fraud operations, suspicious activity investigation, transaction verification, account security, fraud prevention, and stakeholder collaboration.
+**Operations & Support:** Incident Management • Case Resolution • SLA/KPI Monitoring • Process Support • Customer Support • Root-Cause Analysis
+
+**Data & Analysis:** Excel • SQL • Power BI • Reporting • Trend Analysis • Operational Analytics
+
+**Tools:** Zendesk • Salesforce • Microsoft Office • GitHub • TypeScript
+
+## Education
+
+MSc Management & Organization — Silesian University of Technology, Poland
 
 ## Contact
 
-- Email: shibeshinatinaelabera@gmail.com
-- LinkedIn: https://www.linkedin.com/in/natinael-abera
+- Email: shibnatbera@gmail.com
+- LinkedIn: https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b
 
-## Deployment
+## Portfolio
 
-This project uses GitHub Pages for deployment. The deployment scripts are configured in `package.json`.
-
-To deploy the site:
-
-```bash
-npm install
-npm run deploy
-```
+https://natinaelaberashi.github.io/portfolio-website
