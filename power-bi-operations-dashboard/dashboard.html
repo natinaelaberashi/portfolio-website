@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Operations Performance Dashboard</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div>
+    <p class="eyebrow">OPERATIONS ANALYTICS • PORTFOLIO PROJECT</p>
+    <h1>Operations Performance Dashboard</h1>
+    <p class="subtitle">KPI, SLA, resolution-time and exception analysis using synthetic operational data.</p>
+  </div>
+  <div class="badge">Synthetic Data</div>
+</header>
+
+<main>
+  <section class="filters">
+    <label>Team <select id="teamFilter"><option value="All">All teams</option></select></label>
+    <label>Priority <select id="priorityFilter"><option value="All">All priorities</option></select></label>
+    <label>Category <select id="categoryFilter"><option value="All">All categories</option></select></label>
+    <button id="reset">Reset filters</button>
+  </section>
+
+  <section class="kpis">
+    <article><span>Total Cases</span><strong id="totalCases">—</strong></article>
+    <article><span>SLA Compliance</span><strong id="sla">—</strong></article>
+    <article><span>Avg Resolution</span><strong id="avgResolution">—</strong></article>
+    <article><span>Exception Rate</span><strong id="exceptionRate">—</strong></article>
+  </section>
+
+  <section class="grid">
+    <article class="panel"><h2>Cases by Category</h2><div id="categoryChart" class="bars"></div></article>
+    <article class="panel"><h2>SLA Compliance by Team</h2><div id="teamChart" class="bars"></div></article>
+    <article class="panel"><h2>Root-Cause Concentration</h2><div id="rootChart" class="bars"></div></article>
+    <article class="panel"><h2>Operational Findings</h2><div id="findings"></div></article>
+  </section>
+
+  <section class="panel">
+    <h2>Management View</h2>
+    <div class="workflow"><span>Operational Data</span><b>→</b><span>KPI</span><b>→</b><span>Pattern</span><b>→</b><span>Root Cause</span><b>→</b><span>Action</span><b>→</b><span>Follow-up KPI</span></div>
+  </section>
+
+  <p class="note">Portfolio demonstration only. Dataset, calculations and findings are synthetic and do not represent employer, customer, production or confidential information.</p>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
