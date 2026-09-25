@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Payment Product Operations Lab</title>
+<style>
+body{margin:0;background:#07111f;color:#eef5ff;font-family:system-ui,-apple-system,Segoe UI,sans-serif}.wrap{max-width:1100px;margin:auto;padding:40px 20px}h1{font-size:clamp(2rem,5vw,4rem);margin:0 0 10px}p{color:#9fb0c5}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:28px 0}.card{background:#0d1a2b;border:1px solid #22344a;border-radius:18px;padding:20px}.value{font-size:2rem;font-weight:800}.label{color:#9fb0c5;font-size:.85rem}.section{margin-top:30px}.bar{height:14px;background:#16263a;border-radius:99px;overflow:hidden;margin-top:8px}.fill{height:100%;background:#59d8ff}.row{margin:16px 0}.rowtop{display:flex;justify-content:space-between}.pill{display:inline-block;padding:5px 9px;border-radius:8px;background:#16263a;font-size:.78rem}.note{margin-top:30px;padding:18px;border-left:3px solid #59d8ff;background:#0d1a2b}@media(max-width:800px){.grid{grid-template-columns:1fr 1fr}}@media(max-width:520px){.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<p class="pill">SYNTHETIC DATA · PAYMENT OPERATIONS</p>
+<h1>Payment Product Operations Dashboard</h1>
+<p>Operational view of transaction volume, failures, SLA risk and investigation priorities.</p>
+<div class="grid">
+<div class="card"><div class="label">Transactions</div><div class="value">15</div></div>
+<div class="card"><div class="label">Transaction Value</div><div class="value">€8.7k</div></div>
+<div class="card"><div class="label">Failed</div><div class="value">4</div></div>
+<div class="card"><div class="label">SLA Breaches</div><div class="value">8</div></div>
+</div>
+<div class="section card">
+<h2>Investigation focus</h2>
+<div class="row"><div class="rowtop"><span>Partner Timeout</span><b>3</b></div><div class="bar"><div class="fill" style="width:100%"></div></div></div>
+<div class="row"><div class="rowtop"><span>Compliance Review</span><b>3</b></div><div class="bar"><div class="fill" style="width:100%"></div></div></div>
+<div class="row"><div class="rowtop"><span>Validation Error</span><b>2</b></div><div class="bar"><div class="fill" style="width:67%"></div></div></div>
+</div>
+<div class="note"><strong>Operations workflow:</strong> Validate data → identify pattern → assess impact → investigate partner/product → escalate with evidence → resolve → monitor prevention.</div>
+<div class="note"><strong>Portfolio note:</strong> This project is a learning simulation. No production customer, partner or payment data is used.</div>
+</div>
+</body>
+</html>
