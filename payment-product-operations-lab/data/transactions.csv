@@ -1,0 +1,16 @@
+transaction_id,date,country,partner,product,currency,amount,status,processing_minutes,sla_minutes,error_category
+TX1001,2026-09-01,Poland,Partner A,Wallet Transfer,PLN,600,Completed,18,30,None
+TX1002,2026-09-01,Germany,Partner B,Bank Payout,EUR,750,Failed,42,30,Partner Timeout
+TX1003,2026-09-02,Poland,Partner A,Bank Payout,PLN,450,Failed,51,30,Validation Error
+TX1004,2026-09-02,France,Partner C,Cash Pickup,EUR,900,Completed,24,30,None
+TX1005,2026-09-03,Poland,Partner D,Cash Pickup,PLN,350,Pending,65,60,Compliance Review
+TX1006,2026-09-03,Germany,Partner B,Wallet Transfer,EUR,500,Completed,21,30,None
+TX1007,2026-09-04,Poland,Partner A,Bank Payout,PLN,800,Failed,47,30,Partner Timeout
+TX1008,2026-09-04,France,Partner C,Wallet Transfer,EUR,700,Pending,58,60,Compliance Review
+TX1009,2026-09-05,Germany,Partner E,Bank Payout,EUR,400,Failed,39,30,Validation Error
+TX1010,2026-09-05,Poland,Partner D,Wallet Transfer,PLN,550,Completed,19,30,None
+TX1011,2026-09-06,Poland,Partner A,Bank Payout,PLN,620,Completed,27,30,None
+TX1012,2026-09-06,Germany,Partner B,Cash Pickup,EUR,480,Failed,46,30,Partner Timeout
+TX1013,2026-09-07,France,Partner C,Bank Payout,EUR,720,Completed,26,30,None
+TX1014,2026-09-07,Poland,Partner D,Cash Pickup,PLN,390,Pending,71,60,Compliance Review
+TX1015,2026-09-08,Germany,Partner E,Wallet Transfer,EUR,530,Completed,23,30,None
