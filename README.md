@@ -1,118 +1,61 @@
-# Natinael Abera Shibeshi — Portfolio
+# Natinael Abera Shibeshi — Payment Systems Portfolio
 
-**Operations & Support Specialist | Data Analysis | Incident & Process Support**
+**Payment Systems Analyst | Payment Operations | Transaction Analysis | Technical Troubleshooting**
 
-Operations and Support professional with experience in transaction processing, incident investigation, customer support, KPI/SLA monitoring, data analysis, and cross-functional coordination.
+This portfolio is positioned around payment systems and operational technology. It combines hands-on operations experience with SQL, incident investigation, support, reporting and payment-focused portfolio projects.
 
-This portfolio is built around practical, recruiter-readable examples of **incident management, operational analytics, support reporting, transaction analysis, production-support concepts, and process improvement**.
+## Career Focus
 
-## Recruiter Quick View
+- Payment Systems Analyst
+- Payment Operations Analyst
+- Payments Technical Support
+- Payment Support / Production Support
+- Transaction Operations Analyst
+- Payment Systems / Application Support
 
-| Area | Evidence |
-|---|---|
-| Operations & Support | Incident triage, case resolution, SLA/KPI monitoring, support workflows |
-| Data & Reporting | SQL, Excel, Power BI, KPI analysis, trend analysis |
-| Technical Support | Troubleshooting, ticket analysis, ITSM concepts, monitoring concepts |
-| Cloud Learning | Azure operations concepts and KQL fundamentals |
-| Documentation | Runbooks, RCA templates, operational handovers |
-| Development | HTML, CSS, JavaScript, TypeScript, GitHub |
+## Core Skills
 
-## Featured Projects
+**Payments & Operations:** Payment Operations • Transaction Processing • Transaction Analysis • Exception Handling • SLA/KPI Monitoring • Incident Management
 
-### 1. Operations Performance Dashboard — Power BI
-Power BI portfolio project focused on operational KPIs, SLA compliance, resolution time, exception analysis, root-cause patterns, and management reporting using synthetic data.
+**Technical:** SQL • Troubleshooting • Root-Cause Analysis • Technical Support • System Investigation • API Concepts • Technical Documentation
 
-- **Project:** https://github.com/natinaelaberashi/portfolio-website/tree/main/power-bi-operations-dashboard
+**Data:** Excel • Power BI • Operational Analytics • KPI Reporting • Trend Analysis
 
-### 2. IT Service Desk Operations Dashboard
-Interactive service-desk dashboard covering ticket volume, priorities, SLA compliance, resolution time, team analysis, and operational filters.
+**Cloud & Tools:** Azure Fundamentals • KQL Fundamentals • GitHub • ITSM Concepts
 
-- **Repository:** https://github.com/natinaelaberashi/cloud-desk-it-support
-- **Live demo:** https://natinaelaberashi.github.io/cloud-desk-it-support/
+## Selected Projects
 
-### 3. Transaction Processing & Operations Analytics
-SQL analysis of transaction volume, approval/decline patterns, failure rates, operational KPIs, and decline-code patterns.
+### Transaction Processing & Operations Analytics
+SQL-based analysis of transaction outcomes, approval/decline behaviour, failure patterns, channels and operational KPIs using synthetic data.
 
-- **Repository:** https://github.com/natinaelaberashi/it-support-ticket-system
+Repository: https://github.com/natinaelaberashi/it-support-ticket-system
 
-### 4. Customer Support Analytics
-Synthetic support-case dashboard covering SLA compliance, response/resolution time, categories, priorities, channels, and operational insights.
+### Payment Product Operations Lab
+Synthetic end-to-end payment operations case covering transaction KPIs, partner performance, failure investigation, SLA breaches and improvement actions.
 
-- **Project:** https://github.com/natinaelaberashi/portfolio-website/tree/main/customer-support-analytics
+Project: https://github.com/natinaelaberashi/portfolio-website/tree/main/payment-product-operations-lab
 
-### 5. Azure Support Operations Lab
-Synthetic Azure-oriented support lab covering incident triage, monitoring concepts, SLA analysis, KQL-style investigations, and runbook documentation.
+### Production Support & Incident Management Lab
+Incident lifecycle lab covering severity, SLA, investigation, RCA, major-incident communication and preventive actions.
 
-- **Project:** https://github.com/natinaelaberashi/portfolio-website/tree/main/azure-support-operations-lab
+Project: https://github.com/natinaelaberashi/portfolio-website/tree/main/production-support-incident-management
 
-### 6. Production Support & Incident Management Lab
-Synthetic production-support lab covering incident severity, response workflow, SLA analysis, RCA, major-incident communication, and preventive actions.
+### IT Service Desk Operations Dashboard
+Interactive support dashboard covering ticket volume, priority, SLA, resolution time and team workload.
 
-- **Project:** https://github.com/natinaelaberashi/portfolio-website/tree/main/production-support-incident-management
+Repository: https://github.com/natinaelaberashi/cloud-desk-it-support
 
-### 7. Transmission Operations Analyst Lab
-Synthetic operations lab covering message monitoring, failures, retries, exceptions, SLA reporting, SQL analysis, and analyst handover.
+Live demo: https://natinaelaberashi.github.io/cloud-desk-it-support/
 
-- **Project:** https://github.com/natinaelaberashi/portfolio-website/tree/main/transmission-operations-analyst-lab
+## Experience
 
-### 8. Data Analytics for Operations Lab
-Synthetic operational dataset used for KPI analysis, SLA compliance, exception analysis, root-cause analysis, and management reporting.
+My professional background includes transaction/operations support, incident investigation, technical and product support, KPI/SLA monitoring and cross-functional issue resolution.
 
-- **Project:** https://github.com/natinaelaberashi/portfolio-website/tree/main/data-analytics-operations-lab
+## Portfolio Integrity
 
-### 9. Weather App
-Earlier web-development project demonstrating API-based data retrieval with Flask and ReactJS.
+Portfolio datasets are synthetic and created for demonstration. They do not contain employer, customer, payment-card or confidential production information.
 
-- **Repository:** https://github.com/natinaelaberashi/Weather-app
-
-## Featured Case Study
-
-### Operations SLA & Exception Analysis
-A business-style case study showing the full analytical workflow:
-
-**Operational Data → KPI → Pattern → Root Cause → Action → Follow-up KPI**
-
-It demonstrates how an operations analyst can move from raw cases to practical management recommendations while clearly separating synthetic portfolio findings from real business results.
-
-- **Case study:** https://github.com/natinaelaberashi/portfolio-website/tree/main/case-studies
-
-## How I Approach Operational Problems
-
-```text
-Incident / Case
-      ↓
-Triage & Prioritization
-      ↓
-Data / Evidence Review
-      ↓
-Root-Cause Investigation
-      ↓
-Resolution / Escalation
-      ↓
-KPI & SLA Review
-      ↓
-Documentation & Improvement
-```
-
-## Skills
-
-**Operations & Support:** Incident Management • Case Resolution • SLA/KPI Monitoring • Process Support • Customer Support • Root-Cause Analysis • Production Support Concepts
-
-**Data & Analysis:** Excel • SQL • Power BI • Reporting • Trend Analysis • Operational Analytics
-
-**Technical & Cloud Learning:** Technical Troubleshooting • Monitoring Concepts • Azure Operations Concepts • KQL Fundamentals • ITSM Concepts
-
-**Tools:** Zendesk • Salesforce • Microsoft Office • GitHub • TypeScript
-
-## Data & Portfolio Integrity
-
-Portfolio datasets are synthetic and created for demonstration. They do not contain employer, customer, confidential, or production data.
-
-Azure and production-support projects are explicitly **learning/lab projects**, not claims of access to real employer infrastructure.
-
-## Education
-
-**MSc Management & Organization** — Silesian University of Technology, Poland
+Learning/lab projects are clearly separated from professional experience.
 
 ## Connect
 
