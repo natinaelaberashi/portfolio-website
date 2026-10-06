@@ -1,27 +1,29 @@
-# Natinael Abera Shibeshi — Payment Systems Portfolio
+# Natinael Abera Shibeshi — Payments Operations Portfolio
 
-**Payment Systems Analyst | Payment Operations | Transaction Analysis | Technical Troubleshooting**
+**Payments Operations Analyst | Transaction Analysis | Payment Support | Operations & Process**
 
-This portfolio is positioned around payment systems and operational technology. It combines hands-on operations experience with SQL, incident investigation, support, reporting and payment-focused portfolio projects.
+This portfolio is built around the roles I am targeting in payments, fintech and financial operations: payment operations, payment analysis, onboarding, transaction support, disputes/chargebacks, fraud operations, business process analysis and functional support.
 
-## Career Focus
+## Target Roles
 
-- Payment Systems Analyst
-- Payment Operations Analyst
-- Payments Technical Support
-- Payment Support / Production Support
+- Payment Operations Specialist / Analyst
+- Payment Analyst
+- Payments Onboarding Specialist
+- Payments Support Specialist
 - Transaction Operations Analyst
-- Payment Systems / Application Support
+- Chargeback / Dispute Specialist
+- Fraud Operations Analyst
+- Financial Operations Analyst
+- Business Process Analyst
+- Functional Support Analyst
 
 ## Core Skills
 
-**Payments & Operations:** Payment Operations • Transaction Processing • Transaction Analysis • Exception Handling • SLA/KPI Monitoring • Incident Management
+**Payments & Operations:** Payment Operations • Transaction Processing • Transaction Analysis • Exception Handling • Payment Support • Onboarding Support • SLA/KPI Monitoring
 
-**Technical:** SQL • Troubleshooting • Root-Cause Analysis • Technical Support • System Investigation • API Concepts • Technical Documentation
+**Investigation & Support:** Root-Cause Analysis • Incident Management • Troubleshooting • Technical Support • System Investigation • Process Improvement • Documentation
 
-**Data:** Excel • Power BI • Operational Analytics • KPI Reporting • Trend Analysis
-
-**Cloud & Tools:** Azure Fundamentals • KQL Fundamentals • GitHub • ITSM Concepts
+**Data & Tools:** SQL • Excel • Power BI • Operational Analytics • KPI Reporting • Azure Fundamentals • KQL Fundamentals • GitHub
 
 ## Selected Projects
 
@@ -30,20 +32,16 @@ SQL-based analysis of transaction outcomes, approval/decline behaviour, failure 
 
 Repository: https://github.com/natinaelaberashi/it-support-ticket-system
 
-### Payment Product Operations Lab
-Synthetic end-to-end payment operations case covering transaction KPIs, partner performance, failure investigation, SLA breaches and improvement actions.
-
-Project: https://github.com/natinaelaberashi/portfolio-website/tree/main/payment-product-operations-lab
+### Payment Operations Case Lab
+A payment-focused portfolio case covering exceptions, transaction KPIs, operational controls, SLA breaches, investigation steps and improvement actions.
 
 ### Production Support & Incident Management Lab
-Incident lifecycle lab covering severity, SLA, investigation, RCA, major-incident communication and preventive actions.
-
-Project: https://github.com/natinaelaberashi/portfolio-website/tree/main/production-support-incident-management
-
-### IT Service Desk Operations Dashboard
-Interactive support dashboard covering ticket volume, priority, SLA, resolution time and team workload.
+Incident lifecycle practice covering severity, SLA, investigation, RCA, escalation, communication and preventive actions.
 
 Repository: https://github.com/natinaelaberashi/cloud-desk-it-support
+
+### Operations Support Dashboard
+Interactive dashboard covering ticket volume, priority, SLA, resolution time and workload.
 
 Live demo: https://natinaelaberashi.github.io/cloud-desk-it-support/
 
