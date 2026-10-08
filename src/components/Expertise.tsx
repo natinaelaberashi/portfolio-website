@@ -1,35 +1,35 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCloud, faServer, faHeadset } from '@fortawesome/free-solid-svg-icons';
+import { faCloud, faServer, faClipboardCheck } from '@fortawesome/free-solid-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
-    "Fraud Investigation",
+    "KYC / CDD",
+    "AML/CFT",
+    "Sanctions Screening",
     "Transaction Monitoring",
-    "Suspicious Activity Investigation",
-    "Fraud Detection",
-    "Risk Assessment",
-    "Exception Resolution"
+    "Fraud Investigation",
+    "Risk Assessment"
 ];
 
 const labelsSecond = [
-    "Customer Verification",
-    "Customer Authentication",
-    "Account Security",
-    "Transaction Verification",
-    "Loss Prevention",
-    "Stakeholder Collaboration"
+    "Operational Risk",
+    "Key Risk Indicators",
+    "Control Testing",
+    "Quality Assurance",
+    "Root Cause Analysis",
+    "Issue Validation"
 ];
 
 const labelsThird = [
-    "Microsoft Office",
     "Microsoft Excel",
-    "CRM Systems",
-    "Case Management Systems",
-    "Fraud Monitoring Tools",
-    "Payment Processing Platforms"
+    "SQL",
+    "Case Documentation",
+    "Audit Trails",
+    "Process Improvement",
+    "Stakeholder Communication"
 ];
 
 function Expertise() {
@@ -40,8 +40,8 @@ function Expertise() {
             <div className="skills-grid">
                 <div className="skill">
                     <FontAwesomeIcon icon={faCloud} size="3x"/>
-                    <h3>Fraud Operations & Risk Management</h3>
-                    <p>Focused on monitoring transactions, investigating suspicious activity, and supporting fraud prevention efforts across digital and customer-facing operations.</p>
+                    <h3>Risk, Compliance & Financial Crime</h3>
+                    <p>Experience supporting transaction review, KYC/CDD, AML/CFT, sanctions screening, fraud investigation and risk assessment.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Skills:</span>
                         {labelsFirst.map((label, index) => (
@@ -51,11 +51,11 @@ function Expertise() {
                 </div>
 
                 <div className="skill">
-                    <FontAwesomeIcon icon={faHeadset} size="3x"/>
-                    <h3>Customer Protection & Investigation</h3>
-                    <p>Experience verifying customer activity, securing accounts, documenting cases, and resolving fraud-related exceptions with internal teams and stakeholders.</p>
+                    <FontAwesomeIcon icon={faClipboardCheck} size="3x"/>
+                    <h3>Quality Assurance & Controls</h3>
+                    <p>Focused on quality checks, control testing, issue validation, operational risk indicators and complete investigation records.</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Tools:</span>
+                        <span className="chip-title">Controls:</span>
                         {labelsSecond.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
@@ -64,10 +64,10 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faServer} size="3x"/>
-                    <h3>Tools & Documentation</h3>
-                    <p>Combines case documentation, transaction verification, and multi-system navigation to support effective fraud operations and customer protection.</p>
+                    <h3>Payment Operations & Analytics</h3>
+                    <p>Combines payment operations, transaction analysis, case documentation and data analysis to identify exceptions and support process improvement.</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Highlights:</span>
+                        <span className="chip-title">Tools:</span>
                         {labelsThird.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
