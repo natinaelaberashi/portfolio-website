@@ -1,63 +1,53 @@
-# Natinael Abera Shibeshi — Payments Operations Portfolio
+# Natinael Abera Shibeshi — Risk, Compliance & Payment Operations Portfolio
 
-**Payments Operations Analyst | Transaction Analysis | Payment Support | Operations & Process**
+**Risk, Compliance & Quality Assurance Analyst | KYC/AML | Fraud Investigations | Payment Operations**
 
-This portfolio is built around the roles I am targeting in payments, fintech and financial operations: payment operations, payment analysis, onboarding, transaction support, disputes/chargebacks, fraud operations, business process analysis and functional support.
+This portfolio supports applications across risk, compliance, financial crime operations, quality assurance and payment operations. It presents professional experience alongside clearly separated portfolio/lab projects.
 
 ## Target Roles
 
-- Payment Operations Specialist / Analyst
-- Payment Analyst
-- Payments Onboarding Specialist
-- Payments Support Specialist
+- Risk & Compliance Analyst
+- KYC / AML Analyst
+- Transaction Monitoring Analyst
+- Fraud / Financial Crime Analyst
+- Quality Assurance / Controls Analyst
+- Payment Operations Analyst
+- Operational Risk Analyst
 - Transaction Operations Analyst
-- Chargeback / Dispute Specialist
-- Fraud Operations Analyst
-- Financial Operations Analyst
-- Business Process Analyst
-- Functional Support Analyst
+- Business Process / Operations Analyst
 
 ## Core Skills
 
-**Payments & Operations:** Payment Operations • Transaction Processing • Transaction Analysis • Exception Handling • Payment Support • Onboarding Support • SLA/KPI Monitoring
+**Risk & Compliance:** KYC • CDD • AML/CFT • Sanctions Screening • Transaction Monitoring • Fraud Investigation • Operational Risk • Key Risk Indicators • Control Testing • Issue Validation
 
-**Investigation & Support:** Root-Cause Analysis • Incident Management • Troubleshooting • Technical Support • System Investigation • Process Improvement • Documentation
+**Investigation & Quality:** Root Cause Analysis • Exception Investigation • Quality Assurance • Workpaper / Case Documentation • Audit Trails • Process Improvement • Risk Escalation
 
-**Data & Tools:** SQL • Excel • Power BI • Operational Analytics • KPI Reporting • Azure Fundamentals • KQL Fundamentals • GitHub
+**Data & Tools:** MS Excel • SQL • MS Word • PowerPoint • Operational Reporting • Stakeholder Communication
 
-## Selected Projects
+## Professional Experience
 
-### Transaction Processing & Operations Analytics
-SQL-based analysis of transaction outcomes, approval/decline behaviour, failure patterns, channels and operational KPIs using synthetic data.
+### Euronet Polska Sp. z o.o. — Payment Operations Analyst | Risk, Compliance & Transaction Review
+**08/2024 – Present | Poland**
 
-Repository: https://github.com/natinaelaberashi/it-support-ticket-system
+Review 400+ cases weekly against policy and procedure, analyze customer and payment data in Excel and SQL, investigate exceptions, document findings and recommendations, maintain audit trails, and perform quality checks on case handling.
 
-### Payment Operations Case Lab
-A payment-focused portfolio case covering exceptions, transaction KPIs, operational controls, SLA breaches, investigation steps and improvement actions.
+### Concentrix CVG International Sp. z o.o. — Operations Payment Analyst | Customer Risk & Fraud Investigations
+**05/2023 – 07/2024 | Poland**
 
-### Production Support & Incident Management Lab
-Incident lifecycle practice covering severity, SLA, investigation, RCA, escalation, communication and preventive actions.
+Investigated transaction and system incidents, identified irregularities and risk indicators, escalated significant risks with complete documentation, and coordinated issue resolution with international financial stakeholders.
 
-Repository: https://github.com/natinaelaberashi/cloud-desk-it-support
+### Commercial Bank of Ethiopia (CBE) — Payment Operations & Implementation Specialist | Transaction Monitoring & Risk Controls
+**01/2020 – 10/2021 | Ethiopia**
 
-### Operations Support Dashboard
-Interactive dashboard covering ticket volume, priority, SLA, resolution time and workload.
+Processed and reviewed customer transactions, supported fraud and risk controls through transaction review and issue investigation, used transaction and financial data for operational decision-making, and performed quality checks on case handling.
 
-Live demo: https://natinaelaberashi.github.io/cloud-desk-it-support/
+## Selected Portfolio Projects
 
-## Experience
-
-My professional background includes transaction/operations support, incident investigation, technical and product support, KPI/SLA monitoring and cross-functional issue resolution.
-
-## Portfolio Integrity
-
-Portfolio datasets are synthetic and created for demonstration. They do not contain employer, customer, payment-card or confidential production information.
-
-Learning/lab projects are clearly separated from professional experience.
+The repository includes practical labs covering payment operations, transaction analysis, operational controls, incident management, dashboards and support processes. Portfolio datasets are synthetic and do not contain employer, customer, payment-card or confidential production information.
 
 ## Connect
 
 - Portfolio: https://natinaelaberashi.github.io/portfolio-website
 - GitHub: https://github.com/natinaelaberashi
 - LinkedIn: https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b
-- Email: shibnatbera@gmail.com
+- Email: shibnatabera@gamil.com
