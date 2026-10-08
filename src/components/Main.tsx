@@ -6,7 +6,6 @@ import PhoneAndroidIcon from '@mui/icons-material/PhoneAndroid';
 import '../assets/styles/Main.scss';
 
 function Main() {
-
   return (
     <div className="container">
       <div className="about-section">
@@ -15,27 +14,27 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="mailto:shibeshinatinaelabera@gmail.com" target="_blank" rel="noreferrer"><EmailIcon/></a>
-            <a href="https://www.linkedin.com/in/natinael-abera" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="mailto:shibnatabera@gamil.com" target="_blank" rel="noreferrer"><EmailIcon/></a>
+            <a href="https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Natinael Abera Shibeshi</h1>
-          <p>Fraud Operations Analyst | Fraud Investigation | Transaction Monitoring | Risk Management</p>
+          <p>Risk, Compliance & Quality Assurance Analyst | KYC/AML | Fraud Investigations | Payment Operations</p>
           <p>
-            Fraud Operations professional with experience in transaction monitoring, fraud investigation,
-            customer verification, account security, fraud prevention, and risk assessment. Skilled at
-            identifying suspicious activity, investigating fraud alerts, documenting findings, and
-            collaborating with stakeholders to minimize financial risk while maintaining regulatory compliance.
+            Risk and compliance professional with 3+ years of experience across banking and payment operations.
+            Experienced in transaction review, exception investigation, fraud and risk controls, quality checks,
+            root-cause analysis, case documentation, and operational process improvement. Strong in Excel and SQL,
+            with a focus on accurate investigations, policy adherence, audit-ready documentation, and risk escalation.
           </p>
 
           <div className="contact-details">
             <p><LocationOnIcon /> Poland</p>
-            <p><EmailIcon /> shibeshinatinaelabera@gmail.com</p>
+            <p><EmailIcon /> shibnatabera@gamil.com</p>
             <p><PhoneAndroidIcon /> +48 539 783 189</p>
           </div>
 
           <div className="mobile_social_icons">
-            <a href="mailto:shibeshinatinaelabera@gmail.com" target="_blank" rel="noreferrer"><EmailIcon/></a>
-            <a href="https://www.linkedin.com/in/natinael-abera" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="mailto:shibnatabera@gamil.com" target="_blank" rel="noreferrer"><EmailIcon/></a>
+            <a href="https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
         </div>
       </div>
