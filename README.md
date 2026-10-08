@@ -50,4 +50,4 @@ The repository includes practical labs covering payment operations, transaction 
 - Portfolio: https://natinaelaberashi.github.io/portfolio-website
 - GitHub: https://github.com/natinaelaberashi
 - LinkedIn: https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b
-- Email: shibnatabera@gamil.com
+- Email: shibnatabera@gmail.com
