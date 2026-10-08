@@ -14,7 +14,7 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="mailto:shibnatabera@gamil.com" target="_blank" rel="noreferrer"><EmailIcon/></a>
+            <a href="mailto:shibnatabera@gmail.com" target="_blank" rel="noreferrer"><EmailIcon/></a>
             <a href="https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Natinael Abera Shibeshi</h1>
@@ -28,12 +28,12 @@ function Main() {
 
           <div className="contact-details">
             <p><LocationOnIcon /> Poland</p>
-            <p><EmailIcon /> shibnatabera@gamil.com</p>
+            <p><EmailIcon /> shibnatabera@gmail.com</p>
             <p><PhoneAndroidIcon /> +48 539 783 189</p>
           </div>
 
           <div className="mobile_social_icons">
-            <a href="mailto:shibnatabera@gamil.com" target="_blank" rel="noreferrer"><EmailIcon/></a>
+            <a href="mailto:shibnatabera@gmail.com" target="_blank" rel="noreferrer"><EmailIcon/></a>
             <a href="https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
         </div>
