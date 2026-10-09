@@ -19,7 +19,7 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement className="vertical-timeline-element--work" date="05/2023 - 07/2024" iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }} icon={<FontAwesomeIcon icon={faBriefcase} />}>
             <h3 className="vertical-timeline-element-title">Operations Payment Analyst | Customer Risk & Fraud Investigations</h3>
-            <h4 className="vertical-timeline-element-subtitle">Concentrix CVG International Sp. z o.o. • Poland</h4>
+            <h4 className="vertical-timeline-element-subtitle">Ria Money Transfer • Poland</h4>
             <p>Investigated transaction and system incidents, identified irregularities and risk indicators, documented findings, escalated significant risks, and coordinated issue resolution with international financial stakeholders.</p>
           </VerticalTimelineElement>
           <VerticalTimelineElement className="vertical-timeline-element--work" date="01/2020 - 10/2021" iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }} icon={<FontAwesomeIcon icon={faBriefcase} />}>
