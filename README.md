@@ -1,53 +1,70 @@
-# Natinael Abera Shibeshi — Risk, Compliance & Payment Operations Portfolio
+# Natinael Shibeshi — Support Services & Customer Support Portfolio
 
-**Risk, Compliance & Quality Assurance Analyst | KYC/AML | Fraud Investigations | Payment Operations**
+**Support Services Analyst (Level 2) | Customer Support | Problem & Requirements Analysis**
 
-This portfolio supports applications across risk, compliance, financial crime operations, quality assurance and payment operations. It presents professional experience alongside clearly separated portfolio/lab projects.
+This portfolio demonstrates customer and operations support, incident investigation, SLA-focused case resolution, root-cause analysis, workaround documentation and operational reporting. It is aligned with Support Services Analyst, application support, IT support, service desk and business/requirements analysis roles.
+
+## Professional Summary
+Support analyst with 5+ years of experience providing accurate, timely and professional support to non-technical users. Experienced in problem analysis, root-cause investigation, issue replication, workaround documentation, escalation and SLA-compliant resolution. Reviews 400+ cases weekly at 93%+ quality. English: C1. Based in Poland and available for Saturday and Sunday coverage.
 
 ## Target Roles
-
-- Risk & Compliance Analyst
-- KYC / AML Analyst
-- Transaction Monitoring Analyst
-- Fraud / Financial Crime Analyst
-- Quality Assurance / Controls Analyst
-- Payment Operations Analyst
-- Operational Risk Analyst
-- Transaction Operations Analyst
-- Business Process / Operations Analyst
+- Support Services Analyst (Level 2)
+- Application / Product Support Analyst
+- IT Support Analyst / Service Desk Analyst
+- Customer Support Analyst
+- Technical Support Specialist
+- Incident & Problem Management Analyst
+- Business / Requirements Analyst
+- Operations Support Analyst
 
 ## Core Skills
+**Customer Support & Service Management:** Incident and Case Management • SLA Monitoring • Escalation Management • Knowledge Base Contribution • Quality Assurance • Root Cause Analysis • Workaround Documentation
 
-**Risk & Compliance:** KYC • CDD • AML/CFT • Sanctions Screening • Transaction Monitoring • Fraud Investigation • Operational Risk • Key Risk Indicators • Control Testing • Issue Validation
+**Analysis & Problem Solving:** Issue Replication • Requirements Clarification • Trend Analysis • Customer Advocacy • Cross-Team Collaboration • Evidence-Based Escalation
 
-**Investigation & Quality:** Root Cause Analysis • Exception Investigation • Quality Assurance • Workpaper / Case Documentation • Audit Trails • Process Improvement • Risk Escalation
-
-**Data & Tools:** MS Excel • SQL • MS Word • PowerPoint • Operational Reporting • Stakeholder Communication
+**Data & Tools:** SQL • Excel • Power BI • Azure Fundamentals • BMC Remedy • ServiceNow • Zendesk • AI Tools • JSON/APIs
 
 ## Professional Experience
 
-### Euronet Polska Sp. z o.o. — Payment Operations Analyst | Risk, Compliance & Transaction Review
-**08/2024 – Present | Poland**
+### Euronet Polska Sp. z o.o. — Customer Support Services Analyst
+**August 2024 – Present | Poland**
+- Resolve and validate 400+ cases weekly within SLAs at 93%+ quality, confirming workarounds satisfy customers before closure.
+- Support customers via phone, email, portal and chat, gathering and clarifying their needs.
+- Investigate root causes using SQL and Excel; produce regular reports on quality and performance metrics.
+- Document recurring scenarios and escalate with evidence, replication details and recommended next steps.
 
-Review 400+ cases weekly against policy and procedure, analyze customer and payment data in Excel and SQL, investigate exceptions, document findings and recommendations, maintain audit trails, and perform quality checks on case handling.
+### Concentrix CVG International Sp. z o.o. — Customer Support Specialist
+**May 2023 – July 2024 | Poland**
+- Investigated and resolved 80+ system incidents daily against strict time targets.
+- Analyzed root causes with Excel and SQL, documenting evidence to support resolution.
+- Trained and guided colleagues on case handling.
+- Contributed to process improvements associated with a 7% reduction in potential operational losses; recognized as Golden Performer for three consecutive months.
 
-### Concentrix CVG International Sp. z o.o. — Operations Payment Analyst | Customer Risk & Fraud Investigations
-**05/2023 – 07/2024 | Poland**
-
-Investigated transaction and system incidents, identified irregularities and risk indicators, escalated significant risks with complete documentation, and coordinated issue resolution with international financial stakeholders.
-
-### Commercial Bank of Ethiopia (CBE) — Payment Operations & Implementation Specialist | Transaction Monitoring & Risk Controls
-**01/2020 – 10/2021 | Ethiopia**
-
-Processed and reviewed customer transactions, supported fraud and risk controls through transaction review and issue investigation, used transaction and financial data for operational decision-making, and performed quality checks on case handling.
+### Ethio Canadian Business Group P.L.C — Product Support & Technical Account Support
+**January 2020 – October 2021 | Ethiopia**
+- Supported customers with product and account queries, resolving requests accurately and confidentially.
+- Explained product and account procedures to non-technical customers and escalated unresolved issues with complete case details.
 
 ## Selected Portfolio Projects
 
-The repository includes practical labs covering payment operations, transaction analysis, operational controls, incident management, dashboards and support processes. Portfolio datasets are synthetic and do not contain employer, customer, payment-card or confidential production information.
+### CloudDesk IT Support Ticket System
+A service-desk analytics dashboard using synthetic ticket data to demonstrate workload analysis, ticket status and priority filters, backlog monitoring, SLA compliance, resolution time and team performance.
+- Repository: https://github.com/natinaelaberashi/cloud-desk-it-support
+- Live dashboard: https://natinaelaberashi.github.io/cloud-desk-it-support/
+
+### IT Support Ticket System & Operations Analytics
+A SQL-focused analysis project demonstrating data checks, KPI calculations, failure-pattern investigation, trend analysis and operational reporting using synthetic data.
+- Repository: https://github.com/natinaelaberashi/it-support-ticket-system
+
+All portfolio datasets are synthetic and illustrative; they do not represent confidential employer or customer data.
+
+## Education
+**MSc, Management & Organization** — Silesian University of Technology, Poland  
+**October 2021 – July 2023** · Gold Medalist · GPA 3.75/4.00
 
 ## Connect
-
 - Portfolio: https://natinaelaberashi.github.io/portfolio-website
 - GitHub: https://github.com/natinaelaberashi
 - LinkedIn: https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b
 - Email: shibnatabera@gmail.com
+- Location: Poland
