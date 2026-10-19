@@ -52,8 +52,8 @@ A service-desk analytics dashboard using synthetic ticket data to demonstrate wo
 - Repository: https://github.com/natinaelaberashi/cloud-desk-it-support
 - Live dashboard: https://natinaelaberashi.github.io/cloud-desk-it-support/
 
-### IT Support Ticket System & Operations Analytics
-A SQL-focused analysis project demonstrating data checks, KPI calculations, failure-pattern investigation, trend analysis and operational reporting using synthetic data.
+### Transaction Processing & Operations Analytics
+A SQL-focused analysis project demonstrating transaction outcome analysis, failure-pattern investigation, channel comparisons, KPI calculations and operational reporting using synthetic data.
 - Repository: https://github.com/natinaelaberashi/it-support-ticket-system
 
 All portfolio datasets are synthetic and illustrative; they do not represent confidential employer or customer data.
