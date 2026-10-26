@@ -33,8 +33,8 @@ function Timeline() {
             <p>Advanced education in management and organization supporting work in financial and payment operations.</p>
           </VerticalTimelineElement>
           <VerticalTimelineElement className="vertical-timeline-element--work" iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }} icon={<FontAwesomeIcon icon={faGraduationCap} />}>
-            <h3 className="vertical-timeline-element-title">Second Master's Degree — Data Science (In Progress)</h3>
-            <p>Developing data analysis and statistical skills for financial analytics, credit risk and fraud analytics. Institution and start date to be confirmed.</p>
+            <h3 className="vertical-timeline-element-title">Second Master's Degree — Data Science, WSB Merito University (In Progress)</h3>
+            <p>Developing data analysis and statistical skills for financial analytics, credit risk and fraud analytics. Start date to be confirmed.</p>
           </VerticalTimelineElement>
         </VerticalTimeline>
       </div>
