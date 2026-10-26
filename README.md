@@ -1,70 +1,34 @@
-# Natinael Shibeshi — Support Services & Customer Support Portfolio
+# Natinael Abera Shibeshi — Financial Operations, Risk & Data Analytics Portfolio
 
-**Support Services Analyst (Level 2) | Customer Support | Problem & Requirements Analysis**
+**Payment Operations | Financial Operations | Fraud & Credit Risk Analytics | Data Analysis**
 
-This portfolio demonstrates customer and operations support, incident investigation, SLA-focused case resolution, root-cause analysis, workaround documentation and operational reporting. It is aligned with Support Services Analyst, application support, IT support, service desk and business/requirements analysis roles.
+This site presents professional experience in payment and banking operations alongside developing analytical skills through a second master's degree in Data Science.
 
-## Professional Summary
-Support analyst with 5+ years of experience providing accurate, timely and professional support to non-technical users. Experienced in problem analysis, root-cause investigation, issue replication, workaround documentation, escalation and SLA-compliant resolution. Reviews 400+ cases weekly at 93%+ quality. English: C1. Based in Poland and available for Saturday and Sunday coverage.
+## Professional background
+- **Euronet Polska (Aug 2024–Present):** Payment Operations Analyst; process and validate 400+ transactions/cases weekly, investigate payment exceptions and support controls with Excel and SQL.
+- **Concentrix CVG International (May 2023–Jul 2024):** Operations Payment Analyst; transaction validation, payment discrepancy investigation and stakeholder coordination.
+- **Commercial Bank of Ethiopia (Jan 2020–Oct 2021):** Banking Operations / Payment Operations & Implementation Specialist; financial data, international market operations and transaction issue resolution.
 
-## Target Roles
-- Support Services Analyst (Level 2)
-- Application / Product Support Analyst
-- IT Support Analyst / Service Desk Analyst
-- Customer Support Analyst
-- Technical Support Specialist
-- Incident & Problem Management Analyst
-- Business / Requirements Analyst
-- Operations Support Analyst
+## Focus areas
+1. Payment processing, transaction monitoring, exceptions and operational controls.
+2. Fraud and financial risk analytics (developing specialization).
+3. Credit risk analytics and portfolio monitoring (developing specialization).
+4. Excel, SQL, financial reporting and data analysis.
+5. Data Science master's studies and applied analytics projects.
 
-## Core Skills
-**Customer Support & Service Management:** Incident and Case Management • SLA Monitoring • Escalation Management • Knowledge Base Contribution • Quality Assurance • Root Cause Analysis • Workaround Documentation
+## Project roadmap
+Planned case studies using **synthetic data**:
+- Payment exception analysis and transaction KPI dashboard
+- Fraud pattern analysis and anomaly detection
+- Credit risk exploratory analysis and portfolio monitoring
 
-**Analysis & Problem Solving:** Issue Replication • Requirements Clarification • Trend Analysis • Customer Advocacy • Cross-Team Collaboration • Evidence-Based Escalation
-
-**Data & Tools:** SQL • Excel • Power BI • Azure Fundamentals • BMC Remedy • ServiceNow • Zendesk • AI Tools • JSON/APIs
-
-## Professional Experience
-
-### Euronet Polska Sp. z o.o. — Customer Support Services Analyst
-**August 2024 – Present | Poland**
-- Resolve and validate 400+ cases weekly within SLAs at 93%+ quality, confirming workarounds satisfy customers before closure.
-- Support customers via phone, email, portal and chat, gathering and clarifying their needs.
-- Investigate root causes using SQL and Excel; produce regular reports on quality and performance metrics.
-- Document recurring scenarios and escalate with evidence, replication details and recommended next steps.
-
-### Concentrix CVG International Sp. z o.o. — Customer Support Specialist
-**May 2023 – July 2024 | Poland**
-- Investigated and resolved 80+ system incidents daily against strict time targets.
-- Analyzed root causes with Excel and SQL, documenting evidence to support resolution.
-- Trained and guided colleagues on case handling.
-- Contributed to process improvements associated with a 7% reduction in potential operational losses; recognized as Golden Performer for three consecutive months.
-
-### Ethio Canadian Business Group P.L.C — Product Support & Technical Account Support
-**January 2020 – October 2021 | Ethiopia**
-- Supported customers with product and account queries, resolving requests accurately and confidentially.
-- Explained product and account procedures to non-technical customers and escalated unresolved issues with complete case details.
-
-## Selected Portfolio Projects
-
-### CloudDesk IT Support Ticket System
-A service-desk analytics dashboard using synthetic ticket data to demonstrate workload analysis, ticket status and priority filters, backlog monitoring, SLA compliance, resolution time and team performance.
-- Repository: https://github.com/natinaelaberashi/cloud-desk-it-support
-- Live dashboard: https://natinaelaberashi.github.io/cloud-desk-it-support/
-
-### Transaction Processing & Operations Analytics
-A SQL-focused analysis project demonstrating transaction outcome analysis, failure-pattern investigation, channel comparisons, KPI calculations and operational reporting using synthetic data.
-- Repository: https://github.com/natinaelaberashi/it-support-ticket-system
-
-All portfolio datasets are synthetic and illustrative; they do not represent confidential employer or customer data.
+These are planned demonstrations, not claims of completed professional projects. Existing repositories may also cover other topics.
 
 ## Education
-**MSc, Management & Organization** — Silesian University of Technology, Poland  
-**October 2021 – July 2023** · Gold Medalist · GPA 3.75/4.00
+- Second MSc, Data Science — in progress (institution/date to be confirmed)
+- MSc Management & Organization — Silesian University of Technology, Poland (2021–2023)
 
-## Connect
-- Portfolio: https://natinaelaberashi.github.io/portfolio-website
+## Links
+- Website: https://natinaelaberashi.github.io/portfolio-website
 - GitHub: https://github.com/natinaelaberashi
 - LinkedIn: https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b
-- Email: shibnatabera@gmail.com
-- Location: Poland
