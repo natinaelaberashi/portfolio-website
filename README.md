@@ -25,7 +25,7 @@ Planned case studies using **synthetic data**:
 These are planned demonstrations, not claims of completed professional projects. Existing repositories may also cover other topics.
 
 ## Education
-- Second MSc, Data Science — in progress (institution/date to be confirmed)
+- Second MSc, Data Science — WSB Merito University, in progress (start date to be confirmed)
 - MSc Management & Organization — Silesian University of Technology, Poland (2021–2023)
 
 ## Links
