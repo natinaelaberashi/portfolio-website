@@ -18,12 +18,9 @@ function Main() {
             <a href="https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Natinael Abera Shibeshi</h1>
-          <p>Risk, Compliance & Quality Assurance Analyst | KYC/AML | Fraud Investigations | Payment Operations</p>
+          <p>Financial Operations & Risk Analyst | Payments • Fraud & Credit Risk Analytics • Data Analysis</p>
           <p>
-            Risk and compliance professional with 3+ years of experience across banking and payment operations.
-            Experienced in transaction review, exception investigation, fraud and risk controls, quality checks,
-            root-cause analysis, case documentation, and operational process improvement. Strong in Excel and SQL,
-            with a focus on accurate investigations, policy adherence, audit-ready documentation, and risk escalation.
+            Payment and banking operations professional with 3+ years of experience in transaction processing, payment validation, exception investigation and financial operations. Experienced in monitoring payment status, resolving discrepancies, documenting controls and improving processes using Excel and SQL. Currently pursuing a second master's degree in Data Science, expanding into fraud analytics, credit risk analysis and data-driven financial decision-making.
           </p>
 
           <div className="contact-details">
