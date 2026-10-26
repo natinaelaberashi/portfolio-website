@@ -3,15 +3,15 @@ import './portfolio.scss';
 
 const github = 'https://github.com/natinaelaberashi';
 const projects = [
-  {title:'Payment Product Operations Lab',category:'Payment operations',desc:'Portfolio materials exploring payment-product operations, transaction workflows and operational controls.',link:github+'/portfolio-website/tree/main/payment-product-operations-lab',tag:'Portfolio lab'},
-  {title:'Data Analytics & Operations Lab',category:'Data analytics',desc:'Operations-focused analysis materials and practical data investigation exercises.',link:github+'/portfolio-website/tree/main/data-analytics-operations-lab',tag:'Portfolio lab'},
-  {title:'Power BI Operations Dashboard',category:'Reporting & dashboards',desc:'Operations reporting and dashboard-focused portfolio work.',link:github+'/portfolio-website/tree/main/power-bi-operations-dashboard',tag:'Portfolio lab'},
-  {title:'Transaction / Transmission Operations Lab',category:'Transaction operations',desc:'Operational workflow and transaction investigation portfolio materials.',link:github+'/portfolio-website/tree/main/transmission-operations-analyst-lab',tag:'Portfolio lab'},
-  {title:'Customer Support Analytics',category:'Transferable analytics',desc:'Case and performance analytics work, included for its transferable data and reporting skills.',link:github+'/portfolio-website/tree/main/customer-support-analytics',tag:'Existing project'},
-  {title:'CloudDesk IT Support Ticket System',category:'Analytics application',desc:'A separate application repository demonstrating operational case and ticket analytics.',link:github+'/cloud-desk-it-support',tag:'Existing repository'},
+  {title:'Payment Product Operations Lab',category:'Payment operations',desc:'Payment-product operations materials including a dashboard folder, SQL scripts, sample data and documentation.',link:github+'/portfolio-website/tree/main/payment-product-operations-lab',tag:'Portfolio lab'},
+  {title:'Data Analytics & Operations Lab',category:'Data analytics',desc:'Operations analytics materials with SQL, reporting resources, sample data and an HTML project page.',link:github+'/portfolio-website/tree/main/data-analytics-operations-lab',tag:'Portfolio lab'},
+  {title:'Power BI Operations Dashboard',category:'Reporting & dashboards',desc:'Operations dashboard source files, SQL, sample data and a Power BI build guide.',link:github+'/portfolio-website/tree/main/power-bi-operations-dashboard',tag:'Portfolio lab'},
+  {title:'Transaction / Transmission Operations Lab',category:'Transaction operations',desc:'Transaction operations portfolio materials including SQL, handover documentation and an HTML project page.',link:github+'/portfolio-website/tree/main/transmission-operations-analyst-lab',tag:'Portfolio lab'},
+  {title:'Customer Support Analytics',category:'Transferable analytics',desc:'Operational case analytics with dashboard source files, SQL and sample data; included for transferable reporting skills.',link:github+'/portfolio-website/tree/main/customer-support-analytics',tag:'Existing project'},
+  {title:'CloudDesk IT Support Ticket System',category:'Analytics application',desc:'Separate repository with an operational ticket analytics dashboard, sample data and a live-demo link.',link:github+'/cloud-desk-it-support',tag:'Existing repository'},
 ];
 const jobs = [
-  {date:'Aug 2024 — Present',role:'Payment Operations Analyst',company:'Euronet Polska · Poland',detail:'Process and validate 400+ transactions or cases weekly; monitor payment status, investigate failed and delayed transactions, resolve discrepancies and support payment controls using Excel and SQL.'},
+  {date:'Aug 2024 — Present',role:'Payment Operations Analyst',company:'Euronet Polska · Poland',detail:'Process and validate 400+ transactions or cases weekly with 97% SLA performance; monitor payment status, investigate failed and delayed transactions, resolve discrepancies and support payment controls using Excel and SQL.'},
   {date:'May 2023 — Jul 2024',role:'Operations Payment Analyst',company:'Concentrix CVG International · Poland',detail:'Validated high-volume financial transactions, investigated payment exceptions and discrepancies, and coordinated resolution with international financial stakeholders.'},
   {date:'Jan 2020 — Oct 2021',role:'Banking Operations / Payment Operations & Implementation Specialist',company:'Commercial Bank of Ethiopia · Ethiopia',detail:'Worked with financial data and international market operations systems, supporting transaction issue resolution, accurate records and operational controls.'}
 ];
@@ -47,7 +47,7 @@ function App(){
      <div className="panel-head"><span>PROFILE / AT A GLANCE</span><span className="panel-dot" aria-hidden="true">✦</span></div>
      <div className="metric"><strong>3+ <small>years</small></strong><span>Financial and payment operations experience</span></div>
      <div className="metric"><strong>400+ <small>/ week</small></strong><span>Transactions or cases processed and validated</span></div>
-     <div className="panel-rule"></div>
+     <div className="metric"><strong>97% <small>SLA</small></strong><span>Reported service-level performance</span></div><div className="panel-rule"></div>
      <p className="panel-label">CURRENT FOCUS</p><p className="panel-focus">Payments <span>↗</span> Fraud analytics <span>↗</span> Credit risk <span>↗</span> Data science</p>
      <p className="panel-foot">Second master's in Data Science · WSB Merito University</p>
     </aside>
