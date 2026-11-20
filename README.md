@@ -32,3 +32,21 @@ These are planned demonstrations, not claims of completed professional projects.
 - Website: https://natinaelaberashi.github.io/portfolio-website
 - GitHub: https://github.com/natinaelaberashi
 - LinkedIn: https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b
+
+
+## Career interests & internship opportunities
+
+I am actively exploring **internship, graduate, and junior-level opportunities** where I can bring together my customer support experience, operational understanding, management education, and growing data skills. I am particularly interested in roles that connect customer and business needs with data, reporting, process improvement, and technology.
+
+**Opportunities of interest**
+- Data Analyst Intern / Junior Data Analyst
+- Data Analytics, Business Intelligence, and Reporting internships
+- Junior Business Analyst / Operations Analyst
+- Technical Support, Application Support, and Product Support roles
+- Customer Operations, Service Operations, and Support Analyst roles with an analytical focus
+
+I bring hands-on professional experience gained since 2023, a continuous-improvement mindset, and a commitment to learning. Alongside my professional development, I am pursuing my **second master's degree** and continuing to strengthen my analytical toolkit, including Excel and my developing skills in Python, SQL, and Power BI.
+
+I would welcome the opportunity to contribute, learn from experienced colleagues, and grow into an integral member of a team. I am also happy to connect with recruiters, hiring managers, mentors, and professionals who would like to discuss relevant internships or junior opportunities.
+
+**If you know of a suitable opportunity or would like to connect, please reach out via [LinkedIn](https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b) or [email](mailto:shibnatabera@gmail.com).**
