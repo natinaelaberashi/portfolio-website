@@ -34,19 +34,18 @@ These are planned demonstrations, not claims of completed professional projects.
 - LinkedIn: https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b
 
 
-## Career interests & internship opportunities
+## Open to internships
 
-I am actively exploring **internship, graduate, and junior-level opportunities** where I can bring together my customer support experience, operational understanding, management education, and growing data skills. I am particularly interested in roles that connect customer and business needs with data, reporting, process improvement, and technology.
+I am actively seeking **internship opportunities in data analytics, business operations, and technical support** where I can apply my professional experience in customer support and data-related operations while building on my academic background. As I pursue my second master's degree in **Computer Science – Data Science**, I am eager to combine practical workplace knowledge with developing analytical skills, contribute to meaningful projects, and continue learning in a collaborative professional environment.
 
-**Opportunities of interest**
-- Data Analyst Intern / Junior Data Analyst
-- Data Analytics, Business Intelligence, and Reporting internships
-- Junior Business Analyst / Operations Analyst
-- Technical Support, Application Support, and Product Support roles
-- Customer Operations, Service Operations, and Support Analyst roles with an analytical focus
+**Areas of interest**
+- Data analytics, business intelligence, and reporting internships
+- Business analysis and operations analysis
+- Technical support, application support, and product support
+- Customer operations and service operations with an analytical focus
 
-I bring hands-on professional experience gained since 2023, a continuous-improvement mindset, and a commitment to learning. Alongside my professional development, I am pursuing my **second master's degree** and continuing to strengthen my analytical toolkit, including Excel and my developing skills in Python, SQL, and Power BI.
+I bring professional experience gained since 2023 in customer-facing and data-related operational environments, alongside a master's degree in Management & Organization. I am strengthening my skills in Excel, SQL, Python, and Power BI, and would be delighted to contribute to a team while learning through hands-on experience.
 
-I would welcome the opportunity to contribute, learn from experienced colleagues, and grow into an integral member of a team. I am also happy to connect with recruiters, hiring managers, mentors, and professionals who would like to discuss relevant internships or junior opportunities.
+I welcome connections with recruiters, hiring managers, and professionals who can share relevant internship opportunities.
 
-**If you know of a suitable opportunity or would like to connect, please reach out via [LinkedIn](https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b) or [email](mailto:shibnatabera@gmail.com).**
+**If you know of a suitable internship, please reach out via [LinkedIn](https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b) or [email](mailto:shibnatabera@gmail.com).**
